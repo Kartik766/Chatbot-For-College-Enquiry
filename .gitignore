@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.venv/
+output/ocr_progress.jsonl
+*.pdf
+!data/knowledge.pdf

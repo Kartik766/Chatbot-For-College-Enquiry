@@ -1,0 +1,1 @@
+Put Merged_data.pdf in this folder (or set PDF_PATH in .env). Only needed if you want to re-run OCR.
